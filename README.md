@@ -1,3 +1,3 @@
-## Preview link: https://linkedin-clone-e6210.web.app/
+## Preview link: https://main--linkedin-clone.netlify.app/
 
--> (Note that if the link doesn’t open because of browser safety, then please do select the radio button to 'No Protection' in chrome’s safe browsing option 👍 ) 
+-> (Note that for better user experience use the above web link on bigger screens (laptop, desktop) 👍 ) 
